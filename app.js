@@ -1,7 +1,7 @@
 
 //Multi-dimentional array
 const array = [['Hello'], ['World']];
-
+console.log(array);
 
 
 //Nesting For Loops
